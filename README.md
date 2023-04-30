@@ -8,5 +8,5 @@ As someone who has personally embarked on the journey of learning Python, I have
 
 While there is no substitute for consistent and dedicated practice when it comes to learning a new programming language, the exercises in this repository are a good resource to aid you in your journey. By working through these exercises, you can gain a deeper understanding of Python's underlying structures and concepts, thus honing your problem-solving skills and becoming more proficient in this powerful language.
 
-**Please note that this repository is not fully updated yet. A considerable number of exercises haven't been added yet.** 
+**Please note that this repository is not fully updated yet. A considerable number of exercises haven't been added.** 
 
