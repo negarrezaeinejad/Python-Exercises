@@ -1,4 +1,4 @@
-# Clock Class
+# Clock Simulator Class
 
 This Python code defines a class called `Clock` that simulates a clock. The `Clock` class has the following properties and methods:
 
