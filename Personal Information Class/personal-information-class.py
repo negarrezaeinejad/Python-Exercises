@@ -27,7 +27,7 @@ if __name__=="__main__":
     Sarah=Person("Sarah","Dawson","New York",1997)
     print(Micheal)
     print(Sarah)
-    print(Micheal>Sarah)
+    print("Is Micheal older than Sarah?", Micheal>Sarah)
 
 
 
